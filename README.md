@@ -1,5 +1,5 @@
 # Biblioteca
-DAO de una biblioteca distribuída
+DAO de una biblioteca distribuida
 
 ### Funcionalidades
 - Lista de miembros por invitación
