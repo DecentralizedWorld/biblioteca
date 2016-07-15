@@ -6,9 +6,9 @@ DAO de una biblioteca distribuida
 - Añadir nuevos libros al DAO
 - Libros identificados por IBSN (se pueden tener varias copias de un mismo libro)
 - Prestamo de libros entre miembros del DAO
+- Limitar el número de libros que una persona puede leer al mismo tiempo.
 
 ### Propuestas
-- Limitar el número de libros que una persona puede tener en préstamo.
 - Limitar la duración de los préstamos.
 - Permitir que el dueño original de un libro retire de forma indefinida su libro del DAO.
 - Guardar un registro de usuarios por los que ha pasado un libro.
